@@ -41,5 +41,5 @@ This software uses the following open source packages:
 MIT
 
 ---
-> GitHub [@rafaelafernande](https://github.com/RafaelaFernandes) &nbsp;&middot;&nbsp;
+> GitHub [@rafaelafernandes](https://github.com/RafaelaFernandes) &nbsp;&middot;&nbsp;
 
